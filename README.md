@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on the association between light exposure and sleep timing, including sleepiness, in UK adults.
+- 🌱 I’m currently studying a data science degree.
+- 👯 I’m looking to collaborate on education and HR projects.
+- 🤔 I’m looking for help with python and data analysis to understand relationships and correlations.
+- 📫 How to reach me: Through my LinkedIn profile - www.linkedin.com/in/cgriffiths96
+- ⚡ Something about me: I have two black cocker spaniels, both are bonkers but the best companions.
+
 <!--
 **cgriffiths96/cgriffiths96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
