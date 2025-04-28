@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on the association between quality of sleep and physical activity in UK adults.
-- 🌱 I’m currently studying a data science degree.
+- 🌱 I’m studying a data science degree while working as an analyst in education.
 - 👯 I’m looking to collaborate on education and HR projects.
 - 🤔 I’m looking for help with python and data analysis to understand relationships and correlations.
 - 📫 How to reach me: Through my LinkedIn profile - www.linkedin.com/in/cgriffiths96
